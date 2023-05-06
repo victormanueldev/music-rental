@@ -2,6 +2,7 @@ export const StarIcon = () => {
   return (
     <svg
       fill="#FACA15"
+      className="w-4 h-4"
       viewBox="0 0 38 38"
       version="1.1"
       xmlns="http://www.w3.org/2000/svg"
